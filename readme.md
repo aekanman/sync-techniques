@@ -1,0 +1,1 @@
+Testing synchronization techniques (tigth-polling, periodic-polling, interrupts) on an ALTERA Nios II Embedded Processor Development System.
